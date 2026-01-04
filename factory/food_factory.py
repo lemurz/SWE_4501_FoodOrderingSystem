@@ -12,4 +12,4 @@ class FoodFactory:
             return Chicken()
         else:
             err = "Food type not recognized"
-            return err
+            print(err)

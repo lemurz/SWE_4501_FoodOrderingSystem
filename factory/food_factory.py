@@ -1,4 +1,4 @@
-from food import Pizza, Burger, Chicken
+from .food import Pizza, Burger, Chicken
 
 
 class FoodFactory:
